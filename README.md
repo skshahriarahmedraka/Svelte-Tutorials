@@ -5,9 +5,9 @@
 run:
 
 ```
-git clone https://github.com/skshahriarahmedraka/Getting-Started-Svelte-3.git
+git clone https://github.com/skshahriarahmedraka/Svelte-Tutorials.git
 
-cd Getting-Started-Svelte-3
+cd Svelte-Tutorials
 
 npm install
 
